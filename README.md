@@ -103,13 +103,16 @@ else:
 ```
 ## Output
 i)	#Use a linear search method to match the item in a list.
+
 ![output](search1.png)
 
 ii)	# Find the element in a list using Binary Search(Iterative Method).
+
 ![output](search.2.png)
 
 
 iii)	# Find the element in a list using Binary Search (recursive Method).
+
 ![output](search.3.png)
 
 
